@@ -7,6 +7,7 @@
     <Description>C3Logger - ILogger Extensions Library</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/PetarTomasevic/C3Logging</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
