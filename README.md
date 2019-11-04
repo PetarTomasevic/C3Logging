@@ -1,8 +1,8 @@
 
 # C3 Logging ILogger Extension
-Small Library to enable ILogger to Log into database or text file
+Small Library to enable ILogger to Log into a database or text file
 
-To install nuget package run
+To install NuGet package run
 
         Install-Package C3Logging -Version 1.0.0
 
